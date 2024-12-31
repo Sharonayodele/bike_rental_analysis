@@ -2,7 +2,7 @@
 
 ## Data analysis project: SQL & Power BI
 
-![Power Bi dashbpard](files/pear bike shop dashboard.PNG)
+![Power Bi dashbpard](files/pearl_bike_shop_dashboard.PNG)
 
 
 ## Table of content
