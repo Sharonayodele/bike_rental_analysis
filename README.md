@@ -2,11 +2,13 @@
 
 ## Data analysis project: SQL & Power BI
 
+![Power Bi dashbpard](files/pear bike shop dashboard.PNG)
+
+
 ## Table of content
 - Introduction
 - Email Request
 - Workflow
-- Visualization
 - Recommendation
 
 ###Introduction
